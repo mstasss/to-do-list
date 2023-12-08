@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white; /* Sets the default text color to white for the whole page */
+}
+
+#largeTextInput {
+  width: 100%; /* Full-width */
+  height: 150px; /* Adjust height as needed */
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #333; /* Darker background for the text area */
+  color: white; /* White text color for the text area */
+  resize: vertical; /* Allows the user to vertically resize the textarea (optional) */
+  font-size: 16px; /* Increases the font size */
+}

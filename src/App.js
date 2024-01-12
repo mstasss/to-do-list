@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App; // Exporting the App component for usein other files
-
-// heyo
